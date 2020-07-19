@@ -1,0 +1,47 @@
+body {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://i.ytimg.com/vi/S6UQ5G8K7Ys/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section {
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.position {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+table,
+h1 {
+    background-color: rgba(0, 0, 0, .5);
+    background-size: cover;
+}
+
+label {
+    color: aqua;
+}
+
+input,
+select {
+    height: 25px;
+    width: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    color: aqua;
+}
+
+a {
+    color: aqua;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

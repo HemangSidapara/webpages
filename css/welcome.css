@@ -1,0 +1,22 @@
+body {
+    background-image: url(../images/welcome.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.position {
+    height: 170vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    background-color: #082a49;
+    color: palegoldenrod;
+    font-size: 30px;
+    height: 100%;
+    width: 100%;
+}
